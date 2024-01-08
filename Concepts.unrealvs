@@ -1,0 +1,30 @@
+{
+  "Bookmarks": [],
+  "Recents": [
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\ConceptsProjectile.cpp",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\ConceptsProjectile.h",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\TP_WeaponComponent.cpp",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\TP_PickUpComponent.h",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\ConceptsCharacter.h",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\Concepts.Build.cs",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\CoreUObject\\Public\\Templates\\Casts.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Experimental\\Chaos\\Public\\PhysicsObjectHelper.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Experimental\\ChaosSolverEngine\\Public\\Chaos\\ChaosSolverActor.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Experimental\\GeometryCollectionEngine\\Public\\GeometryCollection\\GeometryCollectionComponent.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\CoreMinimal.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Engine\\Classes\\Components\\MeshComponent.h",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\ConceptsCharacter.cpp",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Containers\\StringView.h",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\ConceptsGameMode.cpp",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\Private\\ConceptsCharacterMovementComponent.cpp",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Engine\\Classes\\GameFramework\\Actor.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Engine\\Classes\\Components\\PrimitiveComponent.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Engine\\Public\\Physics\\Experimental\\ChaosEventType.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Experimental\\ChaosCore\\Public\\ChaosCoreModule.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Experimental\\Chaos\\Private\\Chaos\\PhysicsObjectInternal.h",
+    "D:\\Projects\\CustomUnrealEngine\\Engine\\Source\\Runtime\\Engine\\Private\\PrimitiveComponentPhysics.cpp",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts\\Public\\ConceptsCharacterMovementComponent.h",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\Concepts.Target.cs",
+    "D:\\Projects\\Concepts\\Concepts\\Source\\ConceptsEditor.Target.cs"
+  ]
+}
